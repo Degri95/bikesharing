@@ -2,7 +2,7 @@
 Analyzing NYC Citibike data from August 2019 with Tableau.
 
 ## Overview
-The purpose of this project is explore and visualize bikeshare data from Citibike in NYC. The visualizations will be shown to investors to convice them that a bike-sharing program in Des Moines, Iowa is viable and sustainable.
+The purpose of this project is explore and visualize bikeshare data from Citibike in NYC. The visualizations will be shown to investors to convince them that a bike-sharing program in Des Moines, Iowa is viable and sustainable.
 
 [Data available here](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
 
@@ -32,7 +32,7 @@ This visualization shows the check out time of the bikes for each trip taken. A 
 
 ![Checkout Times by Gender](/Resources/Trip_Duration_by_Gender.PNG)
 
-This visualization is a breakdown of the check out times by duration and gender. This chart Also helps futher illustrate the difference in rides by each gender.
+This visualization is a breakdown of the check out times by duration and gender. This chart also helps further illustrate the difference in rides by each gender.
 
 ### Trips by Weekday per Hour
 
@@ -57,8 +57,8 @@ Breaking down the weekday usage by gender and usertype really helps visualize th
 In conclusion the bike-sharing program in New York is a successful business, but would it be successful in Des Moines?
 
 - In New York the customer base is predominantly male subscribers in Manhattan.
-- The Most trips are taken around commuting and evening times among male and females.
+- The most trips are taken around commuting and evening times among male and females.
 - The weekend has a steady stream of moderate usage.
-- a Majority of trips are under 60 minutes, with most trips being 5 minutes.
+- A majority of trips are under 60 minutes, with most trips being 5 minutes.
 
-Several other factors contribute to the success of the business in New York. Bikeability, alternative transportation cost, and the cost of owning a car in the city are just a few. Some other visualizations I would suggest would be to visualize the average distance between each starting and stopping station. Getting an average distance could help plan needed station distance in Des Moines future bike-share program. Lastly, Visualizing the amount of trips taken per age would find popularity in age demographic. Comparing New Yorks highest demographic for bike-sharing with Des Moines population demographic would be insightful to our investors.
+Several other factors contribute to the success of the business in New York. Bikeability, alternative transportation cost, and the cost of owning a car in the city are just a few. Some other visualizations I would suggest would be to visualize the average distance between each starting and stopping station. Getting an average distance could help plan needed station distance in Des Moines future bike-share program. Lastly, visualizing the amount of trips taken per age would find popularity in age demographic. Comparing New Yorks highest demographic for bike-sharing with Des Moines population demographic would be insightful to our investors.
