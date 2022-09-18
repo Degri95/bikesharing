@@ -26,7 +26,7 @@ This visualization shows the most popular start locations for Citibike customers
 
 ![Checkout Times for Users](/Resources/Trip_Duration.PNG)
 
-This visualization shows the check out time of the bikes for each trip taken. A majority of the trips were under 30 minutes with most trips being only 5 mintues.
+This visualization shows the check out time of the bikes for each trip taken. A majority of the trips were under 60 minutes with most trips being only 5 mintues.
 
 ### Checkout Times by Gender
 
@@ -38,7 +38,7 @@ This visualization is a breakdown of the check out times by duration and gender.
 
 ![Trips by Weekday per Hour](/Resources/Trips_by_Weekday.PNG)
 
-The heatmap above shows how many trips were taken during different days and times of the week. Commute times have the highest usage, and the weekends having a moderate amount.
+The heatmap above shows how many trips were taken during different days and times of the week. Commute times and evenings have the highest usage, and the weekends with a moderate amount of usage.
 
 ### Trips by Gender
 
@@ -54,3 +54,11 @@ Breaking down the weekday usage by gender and usertype really helps visualize th
 
 ## Summary
 
+In conclusion the bike-sharing program in New York is a successful business, but would it be successful in Des Moines?
+
+- In New York the customer base is predominantly male subscribers in Manhattan.
+- The Most trips are taken around commuting and evening times among male and females.
+- The weekend has a steady stream of moderate usage.
+- a Majority of trips are under 60 minutes, with most trips being 5 minutes.
+
+Several other factors contribute to the success of the business in New York. Bikeability, alternative transportation cost, and the cost of owning a car in the city are just a few. Some other visualizations I would suggest would be to visualize the average distance between each starting and stopping station. Getting an average distance could help plan needed station distance in Des Moines future bike-share program. Lastly, Visualizing the amount of trips taken per age would find popularity in age demographic. Comparing New Yorks highest demographic for bike-sharing with Des Moines population demographic would be insightful to our investors.
